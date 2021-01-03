@@ -1,3 +1,5 @@
+# Bot Version 1
+
 import telebot
 import pyshorteners
 import config
